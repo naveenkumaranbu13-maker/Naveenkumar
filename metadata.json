@@ -1,0 +1,6 @@
+{
+  "name": "BusLive TN",
+  "description": "AI-powered real-time bus tracking and public transportation assistant for Tamil Nadu with speech-to-text, text-to-speech, and senior accessibility modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
